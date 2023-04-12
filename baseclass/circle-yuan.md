@@ -15,7 +15,7 @@ let circle = new Circle(center:Point, radius:number);
  * @param startDirection 起始方向 Start direction
  * @param clockwiseOrNot 是否为顺时针 Whether it is clockwise
  */
- let point = getPointOnCircle(
+ let point = circle.getPointOnCircle(
     angle: number,
     startDirection: 'top' | 'right' | 'bottom' | 'left' = 'right',
     clockwiseOrNot: boolean = false,
