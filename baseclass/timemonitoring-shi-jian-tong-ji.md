@@ -4,7 +4,7 @@ description: This class can be used to record time
 
 # TimeMonitoring(时间统计)
 
-```javascript
+```typescript
 //Import the class
 import { TimeMonitoring } from 'easy-util-tools'
 

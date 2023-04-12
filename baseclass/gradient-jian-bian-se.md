@@ -7,7 +7,7 @@ description: >-
 
 # Gradient(渐变色)
 
-```javascript
+```typescript
 // Import the module
 import { Gradient } from 'easy-util-tools'
 

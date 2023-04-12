@@ -1,13 +1,13 @@
 # Circle(圆)
 
-```javascript
+```typescript
 // Import the class
 import { Line } from 'easy-util-tools'
 
 let circle = new Circle(center:Point, radius:number);
 ```
 
-```javascript
+```typescript
 /**
  * 获取圆上的点
  * Gets the point on the circle

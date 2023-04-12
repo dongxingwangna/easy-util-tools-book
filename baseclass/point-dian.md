@@ -21,7 +21,7 @@ let point = new Point(0, 0)
  let distance=point.getDistanceToPoint(point:Point);
 ```
 
-```javascript
+```typescript
 /**
  *  判断点是否在当前这个点的范围内
  *  Determine whether the point is within the range of the current point
@@ -32,7 +32,7 @@ let point = new Point(0, 0)
  let inArea = point.isPointInArea(point:Point, radius:number, type:'round'|'square');
 ```
 
-```javascript
+```typescript
 /**
 * 获取到线的距离
 * Gets the distance to the line
@@ -41,10 +41,11 @@ let point = new Point(0, 0)
 let distance = point.getDistanceToLine(line:Line);
 ```
 
-<pre class="language-javascript"><code class="lang-javascript">/**
+```typescript
+/**
 * 获取距离最近的点
 * Gets the point closest to the distance
 * @param points
 */
-<strong>let info = point.getClosestPoint(points:Point[])
-</strong></code></pre>
+let info = point.getClosestPoint(points:Point[])
+```

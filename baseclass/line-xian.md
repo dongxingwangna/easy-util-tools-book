@@ -4,7 +4,7 @@ description: A line or segment represented by two points
 
 # Line(线)
 
-```javascript
+```typescript
 // Import the class
 import { Line } from 'easy-util-tools'
 
@@ -15,7 +15,7 @@ import { Line } from 'easy-util-tools'
 let line = new Line(point: Point, point:Point, limited:boolean)
 ```
 
-```javascript
+```typescript
 /**
 * 获取与x轴的夹角
 * Gets the angle to the x-axis
