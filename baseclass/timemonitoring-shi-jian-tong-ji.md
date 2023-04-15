@@ -9,7 +9,7 @@ description: This class can be used to record time
 import { TimeMonitoring } from 'easy-util-tools'
 
 //The instantiation class parameters are the element that counts the operation time, the event list of the operation, the delay of the automatic pause statistics, the callback that starts the timer, the callback that runs the timer, and the callback that the timer ends
-let timeMonitoring = new TimeMonitoring(el, listeners: string[], autoPauseTime, startFun, running, end)
+let timeMonitoring = new TimeMonitoring(el, listeners, autoPauseTime, startFun, running, end)
 
 //Description of the parameter function：
 

@@ -4,7 +4,7 @@
 // Import the class
 import { Rectangle } from 'easy-util-tools'
 
-let rectangle = new Rectangle(point:Point, width:number, height:number);
+let rectangle = new Rectangle(point, width, height);
 ```
 
 ```typescript
@@ -14,5 +14,5 @@ let rectangle = new Rectangle(point:Point, width:number, height:number);
   * @param point
   * @constructor
   */
-  rectangle.isPointInMatrix(point: Point): boolean 
+  let isInMatrix = rectangle.isPointInMatrix(point); 
 ```

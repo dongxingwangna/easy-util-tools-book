@@ -21,5 +21,5 @@ let gradient = new Gradient([
 let color = grandient.getColor(v)
 
 //exampleResetsChromatography
-gradient.chromatogram = Color[]
+gradient.chromatogram = []
 ```

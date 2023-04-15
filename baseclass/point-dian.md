@@ -14,7 +14,7 @@ let point = new Point(0, 0)
 * Gets the distance to the point
 * @param point
 */
- let distance=point.getDistanceToPoint(point:Point);
+ let distance=point.getDistanceToPoint(point);
 ```
 
 ```typescript
@@ -23,9 +23,9 @@ let point = new Point(0, 0)
  *  Determine whether the point is within the range of the current point
  * @param point
  * @param radius
- * @param type
+ * @param type 'round'|'square'
  */
- let inArea = point.isPointInArea(point:Point, radius:number, type:'round'|'square');
+ let inArea = point.isPointInArea(point, radius, type);
 ```
 
 ```typescript
@@ -34,7 +34,7 @@ let point = new Point(0, 0)
 * Gets the distance to the line
 * @param line
 */
-let distance = point.getDistanceToLine(line:Line);
+let distance = point.getDistanceToLine(line);
 ```
 
 ```typescript
@@ -43,5 +43,5 @@ let distance = point.getDistanceToLine(line:Line);
 * Gets the point closest to the distance
 * @param points
 */
-let info = point.getClosestPoint(points:Point[])
+let info = point.getClosestPoint(points)
 ```

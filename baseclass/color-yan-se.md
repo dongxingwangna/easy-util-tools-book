@@ -40,7 +40,7 @@ let rgb = color.rgb
 
 ```typescript
 /**
-* 获取通道颜色 此方法将在下一个minor版本废弃，可以直接使用channel属性获取
+* 获取通道颜色 此方法将于1.1.0版本废弃，可以直接使用channel属性获取
 * Get channel color This method will be deprecated in the next minor version and can be obtained directly using the channel property
 */
 let channelColor = color.getChannelColor()
@@ -48,7 +48,7 @@ let channelColor = color.getChannelColor()
 
 ```typescript
 /**
-* 获取十六进制颜色值 此方法将在下一个minor版本废弃，可以直接使用hex属性获取
+* 获取十六进制颜色值 此方法将于1.1.0版本废弃，可以直接使用hex属性获取
 * Get hexadecimal color value This method will be deprecated in the next minor version and can be obtained directly using the hex property
 */
 let hexColor = color.getHexColor()
@@ -56,7 +56,7 @@ let hexColor = color.getHexColor()
 
 ```typescript
 /**
-* 获取rgb颜色 此方法将在下一个minor 版本废弃，可以直接使用rgb属性获取
+* 获取rgb颜色 此方法将于1.1.0版本废弃，可以直接使用rgb属性获取
 * Get RGB color This method will be deprecated in the next minor version and can be obtained directly using the rgb property
 */
 let rgbColor = color.getRgbColor()
