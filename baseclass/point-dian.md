@@ -2,8 +2,8 @@
 description: Used to represent a two-dimensional coordinate point or vector
 ---
 
-# ![](../icon/point.png)Point(点)
-
+# Point(点)
+![](../icon/point.png)
 ```javascript
 // Import the class
 import { Point } from 'easy-util-tools'
