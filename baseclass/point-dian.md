@@ -1,9 +1,3 @@
----
-description: Used to represent a two-dimensional coordinate point or vector
-coverY: 0
-layout: landing
----
-
 # Point(点)
 
 ```javascript
