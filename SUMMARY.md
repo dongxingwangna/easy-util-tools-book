@@ -3,7 +3,7 @@
 * [👋 Welcome to easy-util-tools](README.md)
 * [baseClass(基本类)](baseclass-ji-ben-lei/README.md)
   * [🎨Color(颜色)](baseclass/color-yan-se.md)
-  * [<img height="20" src="/icon/point.png" width="20"/>Point(点)](baseclass/point-dian.md)
+  * <img height="20" src="icon/point.png" width="20"/>[Point(点)](baseclass/point-dian.md)
   * [Line(线)](baseclass/line-xian.md)
   * [Circle(圆)](baseclass/circle-yuan.md)
   * [Rectangle(矩形)](baseclass/rectangle-ju-xing.md)
