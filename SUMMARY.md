@@ -12,4 +12,4 @@
 * [Gradient(渐变色)](baseclass/gradient-jian-bian-se.md)
 * [TimeMonitoring(时间统计)](baseclass/timemonitoring-shi-jian-tong-ji.md)
 * [utils](utils/README.md)
-  * [formatAmount](utils/format-amount.md)
+  * [formatAmount(格式金额)](utils/format-amount.md)
