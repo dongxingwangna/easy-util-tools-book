@@ -11,7 +11,7 @@ import { Color } from 'easy-util-tools'
 
 ```typescript
 //Instantiate the class
-let color = new Color(r:number, g:number, b: number)
+let color = new Color(255, 0, 0)
 ```
 
 ```typescript
