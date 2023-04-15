@@ -21,7 +21,7 @@ let point = new Point(0, 0)
  let distance=point.getDistanceToPoint(point:Point);
 ```
 
-<figure><img src="../.gitbook/assets/101918067.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../icon/point.png" alt=""><figcaption></figcaption></figure>
 
 ```typescript
 /**
