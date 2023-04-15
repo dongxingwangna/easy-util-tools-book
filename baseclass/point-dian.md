@@ -21,6 +21,8 @@ let point = new Point(0, 0)
  let distance=point.getDistanceToPoint(point:Point);
 ```
 
+<figure><img src="../.gitbook/assets/101918067.jpeg" alt=""><figcaption></figcaption></figure>
+
 ```typescript
 /**
  *  判断点是否在当前这个点的范围内
