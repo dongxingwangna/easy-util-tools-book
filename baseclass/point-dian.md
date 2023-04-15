@@ -3,7 +3,7 @@ description: Used to represent a two-dimensional coordinate point or vector
 ---
 
 # Point(点)
-![](../icon/point.png)
+
 ```javascript
 // Import the class
 import { Point } from 'easy-util-tools'
@@ -11,7 +11,7 @@ import { Point } from 'easy-util-tools'
 //The Instantiate Class parameter is a two-dimensional coordinate  x, y
 let point = new Point(0, 0)
 ```
-
+![](../icon/point.png)
 ```javascript
 /**
 * 获取到点的距离
