@@ -11,5 +11,5 @@
 * [Rectangle(矩形)](baseclass/rectangle-ju-xing.md)
 * [Gradient(渐变色)](baseclass/gradient-jian-bian-se.md)
 * [TimeMonitoring(时间统计)](baseclass/timemonitoring-shi-jian-tong-ji.md)
-* [Page 1](baseclass/page-1/README.md)
-  * [Page 2](baseclass/page-1/page-2.md)
+* [utils](utils/README.md)
+  * [formatAmount](utils/format-amount.md)
