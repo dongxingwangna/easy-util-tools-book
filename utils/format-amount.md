@@ -2,7 +2,7 @@
 
 ```typescript
 // Import the module
-import {formatAmount} from 'easy-util-tools/utils'
+import {utils} from 'easy-util-tools'
 ```
 
 ```typescript
@@ -12,5 +12,5 @@ import {formatAmount} from 'easy-util-tools/utils'
  * @param data
  * @param formatSymbols
  */
-let amount = formatAmount(2322.2)
+let amount = utils.formatAmount(2322.2)
 ```
