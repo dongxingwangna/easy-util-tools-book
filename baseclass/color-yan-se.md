@@ -2,7 +2,7 @@
 description: This class can be used to convert color values
 ---
 
-# Color(颜色)
+# 😃 Color(颜色)
 
 ```typescript
 // Import the module
