@@ -2,7 +2,7 @@
 description: Used to represent a two-dimensional coordinate point or vector
 ---
 
-# <img src="../icon/point.png" alt="">Point(点)
+# 😃 Point(点)
 
 ```javascript
 // Import the class
