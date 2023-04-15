@@ -2,7 +2,7 @@
 description: Used to represent a two-dimensional coordinate point or vector
 ---
 
-# Point(点)
+# <img src="../icon/point.png" alt="">Point(点)
 
 ```javascript
 // Import the class
@@ -20,8 +20,6 @@ let point = new Point(0, 0)
 */
  let distance=point.getDistanceToPoint(point:Point);
 ```
-
-<figure><img src="../icon/point.png" alt=""><figcaption></figcaption></figure>
 
 ```typescript
 /**
